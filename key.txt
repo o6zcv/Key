@@ -1,0 +1,9 @@
+{
+   "Verify": [
+      {
+         "key": "lee",
+         "link": "telegram.me/shizu01",
+         "version": 1.0
+      }
+   ]
+}
